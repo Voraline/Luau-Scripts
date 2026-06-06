@@ -8,7 +8,7 @@ local VirtualInputManager = game:GetService("VirtualInputManager")
 local Player = Players.LocalPlayer
 local DefaultGravity = workspace.Gravity
 local IsRunning = true
-local Speed = 300
+local Speed = 350
 local CurrentTween = nil
 local IsFarming = false
 
