@@ -1,6 +1,8 @@
 --!optimize 2
 --!native
 
+workspace.BoatStages.OtherStages:Destroy()
+
 local TweenService = game:GetService("TweenService")
 local RunService = game:GetService("RunService")
 local Players = game:GetService("Players")
